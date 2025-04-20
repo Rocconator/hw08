@@ -1,5 +1,6 @@
 AUTHOR: Rocco Greco  
-PURPOSE OF SOFTWARE: matrix library in c and c++ that can do matrix addition, scalar multiplication, matrix multiplication, and matrix transposition  
+PURPOSE OF SOFTWARE:  
+matrix library in c and c++ that can do matrix addition, scalar multiplication, matrix multiplication, and matrix transposition  
 FILES:  
 matrix.c - c library for all matrix functions  
 matrix.cpp - c++ library for all matrix functions  
